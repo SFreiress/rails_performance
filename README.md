@@ -127,7 +127,7 @@ Have a look at `config/initializers/rails_performance.rb` and adjust the configu
 
 You must also have installed Redis server, because this gem is storing data into it.
 
-After installation and configuration, start your Rails application, make a few requests, and open `https://localhost:3000/rails/performance` URL.
+After installation and configuration, start your Rails application, make a few requests, and open `http://localhost:3000/rails/performance` URL.
 
 ### Alternative: Mounting the engine yourself
 
